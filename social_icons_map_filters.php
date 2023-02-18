@@ -4,7 +4,7 @@
  * @version 0.1.0
  */
 /*
-Plugin Name: Mastodon Social Icons
+Plugin Name: Social Icons for Mastodon
 Plugin URI:
 Description:
 Author: Isaac Joseph
