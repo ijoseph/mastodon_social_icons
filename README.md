@@ -35,3 +35,6 @@ The `mastodon.com` logo is (erroneously, as it is not a true mastodon domain) is
 
 ![IMAGE](resources/3B32E5D7906E97EF656674BE53B46D3D.jpg)
 notice that `mastodon.com` (not a true mastodon domain) is not replaced, but that a `mastodon.social` link _is_ replaced. 
+
+# 3. Support
+Open an [issue on github](https://github.com/ijoseph/mastodon_social_icons/issues).
