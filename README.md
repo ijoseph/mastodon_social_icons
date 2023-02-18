@@ -15,7 +15,7 @@ See [here](https://core.trac.wordpress.org/ticket/57293#comment:17) for more det
 
 ## 1. Set up Theme: Twenty Twenty-One
 
-![IMAGE](resources/4AEB4EF9A534C8558066B50431235B39.jpg?raw=true =150x)
+![IMAGE](resources/4AEB4EF9A534C8558066B50431235B39.jpg?raw=true)
 
 ## 2. Create a Secondary Menu
 
