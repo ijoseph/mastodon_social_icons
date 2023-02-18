@@ -38,3 +38,6 @@ notice that `mastodon.com` (not a true mastodon domain) is not replaced, but tha
 
 # 3. Support
 Open an [issue on github](https://github.com/ijoseph/mastodon_social_icons/issues).
+
+License: GPLv2
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
