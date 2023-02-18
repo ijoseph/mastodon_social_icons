@@ -15,23 +15,23 @@ See [here](https://core.trac.wordpress.org/ticket/57293#comment:17) for more det
 
 ## 1. Set up Theme: Twenty Twenty-One
 
-![IMAGE](resources/4AEB4EF9A534C8558066B50431235B39.jpg?raw=true)
+![IMAGE](resources/4AEB4EF9A534C8558066B50431235B39.jpg)
 
 ## 2. Create a Secondary Menu
 
-![IMAGE](resources/29814690F191FD62DA0C84BF7F57EC8E.jpg =300x)
+![IMAGE](resources/29814690F191FD62DA0C84BF7F57EC8E.jpg)
 
 ## 3. Add custom links
 
 
-![IMAGE](resources/29E648FD11A29AAC255AFCD7CCD5B3FF.jpg =300x)
+![IMAGE](resources/29E648FD11A29AAC255AFCD7CCD5B3FF.jpg)
 ## Before
-![IMAGE](resources/BE58DA1D427AEF5DD6DE8A9FE43B0929.jpg =400x)
+![IMAGE](resources/BE58DA1D427AEF5DD6DE8A9FE43B0929.jpg)
 The `mastodon.com` logo is (erroneously, as it is not a true mastodon domain) is replaced by the `svg`, but a `mastodon.social` link is _not_.
 ## After
 
 ###  Activate Plugin
-![IMAGE](resources/AF1B8894E54D3052195D30AF309A9B04.jpg =1240x88)
+![IMAGE](resources/AF1B8894E54D3052195D30AF309A9B04.jpg)
 
-![IMAGE](resources/3B32E5D7906E97EF656674BE53B46D3D.jpg =500x)
+![IMAGE](resources/3B32E5D7906E97EF656674BE53B46D3D.jpg)
 notice that `mastodon.com` (not a true mastodon domain) is not replaced, but that a `mastodon.social` link _is_ replaced. 
