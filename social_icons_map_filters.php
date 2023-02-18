@@ -5,8 +5,8 @@
  */
 /*
 Plugin Name: Social Icons for Mastodon
-Plugin URI:
-Description:
+Plugin URI: https://github.com/ijoseph/mastodon_social_icons/
+Description: Replace links to the top 100 Mastodon domains with the Mastodon svg
 Author: Isaac Joseph
 Version: 0.1.0
 Author URI: github.com/ijoseph
