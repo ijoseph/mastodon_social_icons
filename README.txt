@@ -1,5 +1,8 @@
 # Social Icons for Mastodon
 
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
 This plugin allows replacing the top-100 (by user) Mastodon domains (as of plugin publication) with the Mastodon logo SVG [via this mechanism](https://wordpress.org/documentation/article/twenty-twenty-one/#add-social-icons):
 
 > the text label you provide will be hidden, and an icon will be shown in its place. 
