@@ -11,7 +11,7 @@ Stable tag: 0.1.0
 This plugin replaces footer menu URLs of the top-100 (by user) Mastodon domains (as of plugin publication) with the Mastodon logo SVG via the social icon mechanism. 
 
 == Description ==
-It\'s aesthetically pleasing to link Wordpress sites to one\'s Mastodon account by adding a link in the site footer menu to one\'s Mastodon profile that\'s replaced with the \"M\" mastodon trunk/word balloon-logo. 
+It's aesthetically pleasing to link Wordpress sites to one's Mastodon account by adding a link in the site footer menu to one's Mastodon profile that's replaced with the "M" mastodon trunk/word balloon-logo. 
 
 Without this plugin, however, this functionality is not [expected](https://core.trac.wordpress.org/ticket/57293#ticket) to work for any Mastodon domains until 6.2, and at that point, only the top-10-by-volume Mastodon domains. 
 
