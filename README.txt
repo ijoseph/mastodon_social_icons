@@ -26,7 +26,7 @@ This plugin allows replacing the top-100 (by user) Mastodon domains (as of plugi
 [I (or anyone else) can work to address these limitations if there is interest.](https://github.com/ijoseph/mastodon_social_icons)
 
 == Example ==
-See [here](https://core.trac.wordpress.org/ticket/57293#comment:17) for more details of the example (although note that this describes a slightly separate process, which was patching the theme itself; this plugin achieves the same effect, except with 100 domains, rather than 10).
+See [here](https://github.com/ijoseph/mastodon_social_icons#2-example) for the example with screenshots inline.
 
 = 1. Set up Theme: Twenty Twenty-One =
 
@@ -44,6 +44,10 @@ See [here](https://core.trac.wordpress.org/ticket/57293#comment:17) for more det
 ![IMAGE](resources/BE58DA1D427AEF5DD6DE8A9FE43B0929.jpg)
 The `mastodon.com` logo is (erroneously, as it is not a true mastodon domain) is replaced by the `svg`, but a `mastodon.social` link is _not_.
 = 5 After =
+
+== Screenshots ==
+1. `mastodon.social` link in footer is replaced with Mastodon icon! (Mastodon.com is not, which [is correct behavior](https://www.mastodon.com/)).
+
 
 = 5.1 Activate Plugin =
 ![IMAGE](resources/AF1B8894E54D3052195D30AF309A9B04.jpg)
