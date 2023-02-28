@@ -1,5 +1,7 @@
 # Social Icons for Mastodon
 
+[Deployed here on Wordpress plugins library](https://wordpress.org/plugins/social-icons-for-mastodon/).
+
 This plugin allows replacing the top-100 (by user) Mastodon domains (as of plugin publication) with the Mastodon logo SVG [via this mechanism](https://wordpress.org/documentation/article/twenty-twenty-one/#add-social-icons):
 
 > the text label you provide will be hidden, and an icon will be shown in its place. 
